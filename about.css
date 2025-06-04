@@ -18,6 +18,18 @@ body{
   color: #bbbbbb;
 }
 
+@media (max-width: 2560px){
+  body{
+    padding: 0 30%;
+  }
+}
+
+@media (max-width: 1440px){
+  body{
+    padding: 0 0%;
+  }
+}
+
 .container{
   padding: 0 7%;
 }
